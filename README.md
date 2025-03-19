@@ -664,6 +664,7 @@
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
+- [EasyWebinar](https://easywebinar.com/) - Webinar Software / Live events & webinar app.
 - [12BAY.VN](https://12bay.vn) - Applications online flight bookings.
 - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments.
 - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
